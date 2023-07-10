@@ -1,0 +1,63 @@
+{
+	"status": 0,
+	"data": {
+		"user": {
+			"id": "id123456",
+			"firstName": "firstname",
+			"lastName": "lastname",
+			"email": "youremail",
+			"country": "EU",
+			"uiLanguage": "en-US",
+			"communicationLanguage": "en-US",
+			"accountType": "pat",
+			"uom": "0",
+			"dateFormat": "2",
+			"timeFormat": "2",
+			"emailDay": [
+				1
+			],
+			"system": {
+				"messages": {
+					"firstUsePhoenix": 1669749091,
+					"firstUsePhoenixReportsDataMerged": 1669749091,
+					"lluGettingStartedBanner": 1669749208,
+					"lluNewFeatureModal": 1669749138,
+					"lluOnboarding": 1669749144,
+					"lvWebPostRelease": "3.10.18"
+				}
+			},
+			"details": {},
+			"twoFactor": {
+				"primaryMethod": "",
+				"primaryValue": "",
+				"secondaryMethod": "",
+				"secondaryValue": ""
+			},
+			"created": 1669749091,
+			"lastLogin": 1687688929,
+			"programs": {},
+			"dateOfBirth": 852076800,
+			"practices": {},
+			"devices": {},
+			"consents": {
+				"llu": {
+					"policyAccept": 1682895612,
+					"touAccept": 1687469239
+				}
+			}
+		},
+		"messages": {
+			"unread": 0
+		},
+		"notifications": {
+			"unresolved": 0
+		},
+		"authTicket": {
+			"token": "token-eN6BA-r30",
+			"expires": 1703242067,
+			"duration": 15552000000
+		},
+		"invitations": null,
+		"trustedDeviceToken": ""
+	}
+}

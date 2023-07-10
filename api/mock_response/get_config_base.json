@@ -1,0 +1,305 @@
+{
+	"status": 0,
+	"data": {
+		"captureAnalytics": "false",
+		"countryList": {
+			"countries": [
+				{
+					"DisplayMember": "argentina",
+					"ValueMember": "AR"
+				},
+				{
+					"DisplayMember": "australia",
+					"ValueMember": "AU"
+				},
+				{
+					"DisplayMember": "austria",
+					"ValueMember": "AT"
+				},
+				{
+					"DisplayMember": "bahrain",
+					"ValueMember": "BH"
+				},
+				{
+					"DisplayMember": "belgium",
+					"ValueMember": "BE"
+				},
+				{
+					"DisplayMember": "brazil",
+					"ValueMember": "BR"
+				},
+				{
+					"DisplayMember": "canada",
+					"ValueMember": "CA"
+				},
+				{
+					"DisplayMember": "chile",
+					"ValueMember": "CL"
+				},
+				{
+					"DisplayMember": "colombia",
+					"ValueMember": "CO"
+				},
+				{
+					"DisplayMember": "czechrepublic",
+					"ValueMember": "CZ"
+				},
+				{
+					"DisplayMember": "croatia",
+					"ValueMember": "HR"
+				},
+				{
+					"DisplayMember": "denmark",
+					"ValueMember": "DK"
+				},
+				{
+					"DisplayMember": "egypt",
+					"ValueMember": "EG"
+				},
+				{
+					"DisplayMember": "finland",
+					"ValueMember": "FI"
+				},
+				{
+					"DisplayMember": "france",
+					"ValueMember": "FR"
+				},
+				{
+					"DisplayMember": "germany",
+					"ValueMember": "DE"
+				},
+				{
+					"DisplayMember": "greece",
+					"ValueMember": "GR"
+				},
+				{
+					"DisplayMember": "hongkong",
+					"ValueMember": "HK"
+				},
+				{
+					"DisplayMember": "ireland",
+					"ValueMember": "IE"
+				},
+				{
+					"DisplayMember": "israel",
+					"ValueMember": "IL"
+				},
+				{
+					"DisplayMember": "italy",
+					"ValueMember": "IT"
+				},
+				{
+					"DisplayMember": "jordan",
+					"ValueMember": "JO"
+				},
+				{
+					"DisplayMember": "japan",
+					"ValueMember": "JP"
+				},
+				{
+					"DisplayMember": "kuwait",
+					"ValueMember": "KW"
+				},
+				{
+					"DisplayMember": "luxembourg",
+					"ValueMember": "LU"
+				},
+				{
+					"DisplayMember": "lebanon",
+					"ValueMember": "LB"
+				},
+				{
+					"DisplayMember": "mexico",
+					"ValueMember": "MX"
+				},
+				{
+					"DisplayMember": "netherlands",
+					"ValueMember": "NL"
+				},
+				{
+					"DisplayMember": "norway",
+					"ValueMember": "NO"
+				},
+				{
+					"DisplayMember": "newzealand",
+					"ValueMember": "NZ"
+				},
+				{
+					"DisplayMember": "oman",
+					"ValueMember": "OM"
+				},
+				{
+					"DisplayMember": "poland",
+					"ValueMember": "PL"
+				},
+				{
+					"DisplayMember": "portugal",
+					"ValueMember": "PT"
+				},
+				{
+					"DisplayMember": "qatar",
+					"ValueMember": "QA"
+				},
+				{
+					"DisplayMember": "saudiarabia",
+					"ValueMember": "SA"
+				},
+				{
+					"DisplayMember": "singapore",
+					"ValueMember": "SG"
+				},
+				{
+					"DisplayMember": "southafrica",
+					"ValueMember": "ZA"
+				},
+				{
+					"DisplayMember": "spain",
+					"ValueMember": "ES"
+				},
+				{
+					"DisplayMember": "sweden",
+					"ValueMember": "SE"
+				},
+				{
+					"DisplayMember": "slovenia",
+					"ValueMember": "SI"
+				},
+				{
+					"DisplayMember": "slovakia",
+					"ValueMember": "SK"
+				},
+				{
+					"DisplayMember": "switzerland",
+					"ValueMember": "CH"
+				},
+				{
+					"DisplayMember": "turkey",
+					"ValueMember": "TR"
+				},
+				{
+					"DisplayMember": "taiwan",
+					"ValueMember": "TW"
+				},
+				{
+					"DisplayMember": "uae",
+					"ValueMember": "AE"
+				},
+				{
+					"DisplayMember": "unitedkingdom",
+					"ValueMember": "GB"
+				},
+				{
+					"DisplayMember": "usa",
+					"ValueMember": "US"
+				}
+			]
+		},
+		"features": {
+			"appSettings": false,
+			"connectionIsStreamingBanner": true,
+			"fsl2Streaming": true,
+			"heartbeat": false,
+			"iOSExitNotification": false,
+			"inAppReview": false,
+			"regulatoryUdiDom": true,
+			"repeatableAppReview": false,
+			"sensorEndAlarms": true,
+			"streamingAlarms": true,
+			"streamingSensorStartedAlarm": true,
+			"streamingTutorial": true,
+			"streamingUnavailableBanner": true
+		},
+		"langs": [
+			"ar",
+			"ar-SA",
+			"cs",
+			"cs-CZ",
+			"da",
+			"de",
+			"de-DE",
+			"el",
+			"en",
+			"en-GB",
+			"en-US",
+			"es",
+			"es-AR",
+			"es-CL",
+			"es-CO",
+			"es-MX",
+			"fi",
+			"fi-FI",
+			"fr",
+			"fr-CA",
+			"fr-FR",
+			"he",
+			"hr",
+			"hr-HR",
+			"it",
+			"it-IT",
+			"ja",
+			"ja-JP",
+			"nb",
+			"nb-NO",
+			"nl",
+			"nl-NL",
+			"pl",
+			"pt",
+			"pt-BR",
+			"ru",
+			"ru-RU",
+			"sk",
+			"sk-SK",
+			"sl",
+			"sl-SI",
+			"sv",
+			"sv-SE",
+			"tr",
+			"zh",
+			"zh-CN",
+			"zh-TW"
+		],
+		"minVersion": "4.7.0",
+		"regionalMap": {
+			"ae": {
+				"lslApi": "https://api-ae.libreview.io/",
+				"socketHub": "https://hub-ae.libreview.io/"
+			},
+			"ap": {
+				"lslApi": "https://api-ap.libreview.io/",
+				"socketHub": "https://hub-ap.libreview.io/"
+			},
+			"au": {
+				"lslApi": "https://api-au.libreview.io/",
+				"socketHub": "https://api-au.libreview.io/poll/"
+			},
+			"ca": {
+				"lslApi": "https://api-ca.libreview.io/",
+				"socketHub": "https://api-ca.libreview.io/poll/"
+			},
+			"de": {
+				"lslApi": "https://api-de.libreview.io/",
+				"socketHub": "https://hub-de.libreview.io/"
+			},
+			"eu": {
+				"lslApi": "https://api-eu.libreview.io/",
+				"socketHub": "https://hub-eu.libreview.io/"
+			},
+			"eu2": {
+				"lslApi": "https://api-eu2.libreview.io/",
+				"socketHub": "https://api-eu2.libreview.io/poll/"
+			},
+			"fr": {
+				"lslApi": "https://api-fr.libreview.io/",
+				"socketHub": "https://api-fr.libreview.io/poll"
+			},
+			"jp": {
+				"lslApi": "https://api-jp.libreview.io/",
+				"socketHub": "https://hub-jp.libreview.io/"
+			},
+			"us": {
+				"lslApi": "https://api-us.libreview.io/",
+				"socketHub": "https://api-us.libreview.io/poll/"
+			}
+		}
+	}
+}

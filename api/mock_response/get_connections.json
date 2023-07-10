@@ -1,0 +1,106 @@
+{
+	"status": 0,
+	"data": [
+		{
+			"id": "id12345",
+			"patientId": "patientID12345",
+			"country": "EU",
+			"status": 2,
+			"firstName": "firstname",
+			"lastName": "lastname",
+			"targetLow": 70,
+			"targetHigh": 180,
+			"uom": 0,
+			"sensor": {
+				"deviceId": "",
+				"sn": "11111111",
+				"a": 1686689571,
+				"w": 60,
+				"pt": 4,
+				"s": false,
+				"lj": false
+			},
+			"alarmRules": {
+				"c": true,
+				"h": {
+					"on": true,
+					"th": 250,
+					"thmm": 14,
+					"d": 1440,
+					"f": 0.1
+				},
+				"f": {
+					"th": 55,
+					"thmm": 3,
+					"d": 30,
+					"tl": 10,
+					"tlmm": 0.6
+				},
+				"l": {
+					"th": 70,
+					"thmm": 4,
+					"d": 1440,
+					"tl": 10,
+					"tlmm": 0.6
+				},
+				"nd": {
+					"i": 20,
+					"r": 5,
+					"l": 6
+				},
+				"p": 5,
+				"r": 5,
+				"std": {}
+			},
+			"glucoseMeasurement": {
+				"FactoryTimestamp": "6/25/2023 11:13:31 AM",
+				"Timestamp": "6/25/2023 1:13:31 PM",
+				"type": 1,
+				"ValueInMgPerDl": 155,
+				"TrendArrow": 3,
+				"TrendMessage": null,
+				"MeasurementColor": 1,
+				"GlucoseUnits": 0,
+				"Value": 8.6,
+				"isHigh": false,
+				"isLow": false
+			},
+			"glucoseItem": {
+				"FactoryTimestamp": "6/25/2023 11:13:31 AM",
+				"Timestamp": "6/25/2023 1:13:31 PM",
+				"type": 1,
+				"ValueInMgPerDl": 155,
+				"TrendArrow": 3,
+				"TrendMessage": null,
+				"MeasurementColor": 1,
+				"GlucoseUnits": 0,
+				"Value": 8.6,
+				"isHigh": false,
+				"isLow": false
+			},
+			"glucoseAlarm": null,
+			"patientDevice": {
+				"did": "123456789",
+				"dtid": 40068,
+				"v": "3.4.2",
+				"l": true,
+				"ll": 76,
+				"h": true,
+				"hl": 207,
+				"u": 1680533966,
+				"fixedLowAlarmValues": {
+					"mgdl": 60,
+					"mmoll": 3.3
+				},
+				"alarms": false,
+				"fixedLowThreshold": 0
+			},
+			"created": 1669749198
+		}
+	],
+	"ticket": {
+		"token": "token-eN6BA-r30",
+		"expires": 1703244255,
+		"duration": 15552000000
+	}
+}
